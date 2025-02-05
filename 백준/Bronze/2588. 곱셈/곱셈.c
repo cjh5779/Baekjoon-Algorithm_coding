@@ -10,4 +10,6 @@ int main(void) {
     printf("%d\n", a*(b/100));
     printf("%d", a*b);
 
+    return 0;
+
 }
