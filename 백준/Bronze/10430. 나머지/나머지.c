@@ -13,4 +13,6 @@ int main(void) {
 
     printf("%d\n%d\n%d\n%d", result1, result2, result3, result4);
 
+    return 0;
+
 }
