@@ -14,4 +14,6 @@ int main(void) {
     }else {
         printf("4");
     }
+
+    return 0;
 }
